@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  list-style: none;
+  text-decoration: none;
+  color: #000;
+}
+
+body {
+  background: linear-gradient(90deg, #ffe7d1 0%, #ffe7d1 100%);
+  padding: 0 1rem;
+}
+
+h1,
+h2,
+h3,
+a {
+  padding: 0;
+  margin: 0;
+}
+
+header,
+.musicians-section,
+.courses-section,
+footer {
+  border-color: #000;
+  border-style: solid;
+  border-width: 0.1px 1px 1px;
+  padding: 1.25rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.btn-default {
+  border: 2px solid #000;
+  box-shadow: 4px 4px 0 #000;
+  font-weight: 600;
+  display: block;
+  background: #f73f08;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  padding: 0.75rem 1rem;
+  max-width: 12rem;
+  position: relative;
+}
