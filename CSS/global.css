@@ -1,3 +1,7 @@
+@media screen {
+  
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -10,6 +14,7 @@
 body {
   background: linear-gradient(90deg, #ffe7d1 0%, #ffe7d1 100%);
   padding: 0 1rem;
+  margin-bottom: 5rem;
 }
 
 h1,
@@ -46,4 +51,8 @@ img {
   padding: 0.75rem 1rem;
   max-width: 12rem;
   position: relative;
+}
+
+span{
+  margin: 0;
 }
