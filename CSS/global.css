@@ -4,6 +4,7 @@ html {
 }
 
 * {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
@@ -14,7 +15,7 @@ html {
 
 body {
   background: linear-gradient(90deg, #ffe7d1 0%, #ffe7d1 100%);
-  margin: 0;
+  margin: 0 1rem;
   padding: 0 auto;
 }
 
