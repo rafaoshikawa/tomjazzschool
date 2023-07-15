@@ -3,6 +3,8 @@
   gap: 20px;
 }
 .intro {
+  justify-content: center;
+  align-items: center;
   display: grid;
   position: relative;
   gap: 20px;
