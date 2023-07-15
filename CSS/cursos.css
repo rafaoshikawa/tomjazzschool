@@ -12,7 +12,7 @@
   justify-content: center;
   align-items: center;
   padding: 1rem 2rem 0 1rem;
-  max-width: 14.5rem;
+  max-width: 16.5rem;
   gap: 10px;
   box-shadow: 4px 4px 0 #000;
   border: 2px solid #000;
@@ -50,4 +50,9 @@
 
 .rodape-article span {
   color: #e64b1a;
+}
+
+.btn-courses{
+    max-width: 13rem;
+    font-size: 1rem;
 }
